@@ -1,5 +1,8 @@
-### Hi there 👋
-I'm Emmanuel KWENE but you can call me Ken
+### Hi 👋🏾
+## I'm [Mystro Ken](https://www.mystroken.com)
+[![@mystroken on Github](https://img.shields.io/github/followers/mystroken?label=Follow&style=social)](https://github.com/jasonwebb) &nbsp; [![@mystroken on Twitter](https://img.shields.io/twitter/follow/mystroken?label=Follow)](https://twitter.com/intent/follow?screen_name=jasonwebb) &nbsp; [![mystroken on LinkedIn](https://img.shields.io/badge/-zenwebb-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-kwene/)](https://www.linkedin.com/in/emmanuel-kwene) 
+
+I'm a Freelance Software Developer who likes solve problems in a efficient way.
 
 <!--
 **mystroken/mystroken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
