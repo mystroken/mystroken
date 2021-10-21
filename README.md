@@ -6,9 +6,9 @@ I'm a Freelance Software Developer who likes solving problems in a efficient way
 Most of the time, I work remotely with companies, agencies and individuals around the world helping them to build modern softwares for people.
 A Swiss Army knife that builds user-centric digital solutions with a strong focus on performance, my skillset and areas of interest include:
 
-* **UI engineering**
+* **Full stack engineering** 
 * **Web animation performance**
-* **DevOps stuffs**
+* **Devops stuffs**: docker, bash, CD/CI scripts, etc.
 
 <!--
 **mystroken/mystroken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
