@@ -6,8 +6,8 @@ I'm a Freelance Software Developer who likes solving problems in a efficient way
 Most of the time, I work remotely with companies, agencies and individuals around the world helping them to build modern softwares for people.
 A Swiss Army knife that builds user-centric digital solutions with a strong focus on performance, my skillset and areas of interest include:
 
-* **UI Engineering**
-* **Web Animation Performance**
+* **UI engineering**
+* **Web animation performance**
 * **DevOps stuffs**
 
 <!--
