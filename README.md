@@ -1,6 +1,5 @@
-### Hi 👋🏾
-## I'm [Mystro Ken](https://www.mystroken.com)
-[![@mystroken on Github](https://img.shields.io/github/followers/mystroken?label=Follow&style=social)](https://github.com/jasonwebb) &nbsp; [![@mystroken on Twitter](https://img.shields.io/twitter/follow/mystroken?label=Follow)](https://twitter.com/intent/follow?screen_name=jasonwebb) &nbsp; [![mystroken on LinkedIn](https://img.shields.io/badge/-zenwebb-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-kwene/)](https://www.linkedin.com/in/emmanuel-kwene) 
+## Hi 👋🏾 I'm [Mystro Ken](https://www.mystroken.com)
+[![@mystroken on Github](https://img.shields.io/github/followers/mystroken?label=Follow&style=social)](https://github.com/mystroken) &nbsp; [![@mystroken on Twitter](https://img.shields.io/twitter/follow/mystroken?label=Follow)](https://twitter.com/intent/follow?screen_name=mystroken) &nbsp; [![mystroken on LinkedIn](https://img.shields.io/badge/-zenwebb-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-kwene/)](https://www.linkedin.com/in/emmanuel-kwene) 
 
 I'm a Freelance Software Developer who likes solve problems in a efficient way.
 
