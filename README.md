@@ -8,7 +8,7 @@ A Swiss Army knife that builds user-centric digital solutions with a strong focu
 
 - 👨🏾‍💻 **Full stack engineering** 
 - ⚡ **Web animation performance**
-- 🌟 **Devops stuffs**: docker, bash, CD/CI scripts, etc.
+- 🚧 **Devops stuffs**: docker, bash, CD/CI scripts, etc.
 
 <!--
 **mystroken/mystroken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
