@@ -17,10 +17,10 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mystroken&show_icons=true&locale=en" alt="mystroken" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mystroken&show_icons=true&locale=en" alt="mystroken" />
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
