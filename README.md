@@ -1,3 +1,5 @@
+![](https://github.com/mystroken/drag/raw/master/screenshot.gif)
+
 <h1 align="center">Hi 👋, I'm Mystro Ken</h1>
 
 <p align="center">
