@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Mystro Ken</h1>
 
-<h3 align="center">I like to solve problems in an elegant and efficient way.</h3>
+<p align="left">I like to solve problems in an elegant and efficient way.</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mystroken&label=Profile%20views&color=0e75b6&style=flat" alt="mystroken" />
