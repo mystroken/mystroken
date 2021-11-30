@@ -16,7 +16,7 @@
 </p>
 
 <blockquote align="left">
-  I like to solve problems in an elegant and efficient way.
+  A software engineer who likes to solve problems in a simple, elegant and efficient way.
 </blockquote>
 
 <p align="left">
