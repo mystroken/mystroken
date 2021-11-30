@@ -19,6 +19,9 @@
   A software engineer who likes to solve problems in a simple, elegant and efficient way.
 </blockquote>
 
+<br>
+<br>
+
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
   &nbsp;
