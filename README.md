@@ -9,11 +9,12 @@
 ![](https://github.com/mystroken/drag/raw/master/screenshot.gif)
 
 <br>
-<br>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
 </p>
+
+<br>
 
 <h4>
  📭 My personal website : <a href="https://www.mystroken.com">
