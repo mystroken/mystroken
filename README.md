@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mystro Ken</h1>
+<h2 align="left">Hi 👋, I'm Mystro Ken</h2>
 
 <p align="left">
   👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
