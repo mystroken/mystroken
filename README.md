@@ -16,7 +16,7 @@
 <br>
 
 <h4>
- 📭 My personal website : <a href="https://www.mystroken.com">www.mystroken.com</a>
+ 📭 My personal website : <a href="https://www.mystroken.com">https://mystroken.com/</a>
 </h4>
 
 <p align="left">
