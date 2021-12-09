@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Mystro Ken</h1>
 
-<blockquote align="left">
+<p align="left">
   👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
-</blockquote>
+</p>
 
 <br>
 
