@@ -10,8 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
 </p>
 
-<br>
-
 <h4>
  📭 My personal website : <a href="https://www.mystroken.com">https://mystroken.com/</a>
 </h4>
