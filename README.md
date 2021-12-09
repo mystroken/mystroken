@@ -14,7 +14,7 @@
 </p>
 
 <blockquote align="left">
-  👨🏾‍💻 A software engineer who likes to solve problems in a simple, elegant and efficient way.
+  👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </blockquote>
 
 <br>
