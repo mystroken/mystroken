@@ -4,15 +4,12 @@
   👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </p>
 
-<br>
-
 ![](https://github.com/mystroken/drag/raw/master/screenshot.gif)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
 </p>
 
-<br>
 <br>
 
 <h4>
