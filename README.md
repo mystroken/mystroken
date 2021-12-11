@@ -4,7 +4,9 @@
   👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </p>
 
-![](https://github.com/mystroken/drag/raw/master/screenshot.gif)
+<a href="https://github.com/mystroken/drag">
+  <img src="https://github.com/mystroken/drag/raw/master/screenshot.gif" alt="@mystroken/drag" />
+</a>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
