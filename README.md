@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋, I'm Mystro Ken</h2>
 
-<p align="left">
+<blockquote align="left">
   👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
-</p>
+</blockquote>
 
 <a href="https://github.com/mystroken/drag">
   <img src="https://github.com/mystroken/drag/raw/master/screenshot.gif" alt="@mystroken/drag" />
