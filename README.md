@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋🏾, I'm Mystro Ken</h2>
 
 <blockquote align="left">
-  👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
+👨🏾‍💻 A software engineer who likes to solve problems in a simple and efficient way.
 </blockquote>
 
 <a href="https://github.com/mystroken/drag">
@@ -13,7 +13,7 @@
 </p>
 
 <h4>
- 📭 More stuffs about me ? : <a href="https://www.mystroken.com">https://www.mystroken.com/</a>
+📭 More stuffs about me ? : <a href="https://www.mystroken.com">https://www.mystroken.com/</a>
 </h4>
 
 <p align="left">
