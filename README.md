@@ -15,7 +15,7 @@ Hi 👋🏾, I'm Mystro Ken
 </p>
 
 <h4>
-📭 More stuffs about me ? : <a href="https://www.mystroken.com">https://www.mystroken.com/?utm_medium=github-readme</a>
+📭 More stuffs about me ? : <a href="https://www.mystroken.com/?utm_medium=github-readme">https://www.mystroken.com/</a>
 </h4>
 
 <p align="left">
