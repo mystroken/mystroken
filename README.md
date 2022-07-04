@@ -27,3 +27,7 @@ Hi 👋🏾, I'm Mystro Ken
     <img src="https://img.shields.io/twitter/follow/mystroken?label=Follow" alt="@mystroken on Twitter" />
   </a>
 </p>
+
+<p align="left">
+Last update: 07/04/2022 11:11
+</p>
