@@ -29,5 +29,5 @@ Hi 👋🏾, I'm Mystro Ken
 </p>
 
 <p align="left">
-  <small>Last update: 08/12/2022 17:21</small>
+  <small> Last update: September 22, 2022 at 16:19:4</small>
 </p>
