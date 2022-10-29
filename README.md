@@ -2,9 +2,9 @@
 Hi 👋🏾, I'm Mystro Ken
 </h2>
 
-<blockquote align="left">
+<p align="left">
 👨🏾‍💻 A software engineer who likes to solve problems simply and efficiently.
-</blockquote>
+</p>
 
 <a href="https://github.com/mystroken/drag">
   <img src="https://github.com/mystroken/drag/raw/master/screenshot.gif" alt="@mystroken/drag" />
