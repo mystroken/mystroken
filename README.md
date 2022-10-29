@@ -10,10 +10,6 @@ Hi 👋🏾, I'm Mystro Ken
   <img src="https://github.com/mystroken/drag/raw/master/screenshot.gif" alt="@mystroken/drag" />
 </a>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mystroken&show_icons=true&locale=en&layout=compact" alt="mystroken" />
-</p>
-
 <h4>
 📭 More stuffs about me ? : <a href="https://www.mystroken.com/?utm_medium=github-readme">https://www.mystroken.com/</a>
 </h4>
