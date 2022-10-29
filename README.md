@@ -1,9 +1,9 @@
 <h2 align="left">
-Hi 👋🏾, I'm Mystro Ken
+Hi 👋🏾, I'm Mystro Ken !
 </h2>
 
 <p align="left">
-👨🏾‍💻 A software engineer who likes to solve problems simply and efficiently.
+A software engineer who likes to solve problems simply and efficiently.
 </p>
 
 <a href="https://github.com/mystroken/drag">
