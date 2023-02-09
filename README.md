@@ -14,11 +14,7 @@ Hi 👋🏾
 </h2>
 
 <p align="left">
-I'm Ken
-</p>
-
-<p align="left">
-A software engineer who likes to solve problems simply and efficiently.
+I'm Ken, a software engineer who likes to solve problems simply and efficiently.
 </p>
 
 <br>
