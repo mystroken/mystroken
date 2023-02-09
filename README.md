@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋🏾, I'm Mystro Ken !
+Hi 👋🏾, I'm Ken
 </h2>
 
 <p align="left">
@@ -15,6 +15,8 @@ Hi 👋🏾, I'm Mystro Ken !
 <p align="left">
 A software engineer who likes to solve problems simply and efficiently.
 </p>
+
+<br>
 
 <h4>
 📭 More stuffs about me ? : <a href="https://www.mystroken.com/?utm_medium=github-readme">https://www.mystroken.com/</a>
