@@ -9,13 +9,13 @@
   </a>
 </p>
 
-<h1 align="left">
-Hi 👋🏾
-</h1>
-
 <h2 align="left">
-I'm Ken
+Hi 👋🏾
 </h2>
+
+<p align="left">
+I'm Ken
+</p>
 
 <p align="left">
 A software engineer who likes to solve problems simply and efficiently.
