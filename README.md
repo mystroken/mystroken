@@ -6,9 +6,7 @@ Hi 👋🏾, I'm Mystro Ken !
 A software engineer who likes to solve problems simply and efficiently.
 </p>
 
-<a href="https://github.com/mystroken/drag">
-  <img src="https://github.com/mystroken/drag/raw/master/screenshot.gif" alt="@mystroken/drag" />
-</a>
+<br>
 
 <h4>
 📭 More stuffs about me ? : <a href="https://www.mystroken.com/?utm_medium=github-readme">https://www.mystroken.com/</a>
@@ -25,5 +23,5 @@ A software engineer who likes to solve problems simply and efficiently.
 </p>
 
 <p align="left">
-  <small> Last update: February 08, 2023 at 04:01:5</small>
+  <small> Last update: February 10, 2023 at 00:54:5</small>
 </p>
