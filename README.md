@@ -6,8 +6,6 @@ Hi 👋🏾, I'm Mystro Ken !
 A software engineer who likes to solve problems simply and efficiently.
 </p>
 
-<br>
-
 <h4>
 📭 More stuffs about me ? : <a href="https://www.mystroken.com/?utm_medium=github-readme">https://www.mystroken.com/</a>
 </h4>
