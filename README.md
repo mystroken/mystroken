@@ -1,4 +1,3 @@
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mystroken&label=Profile%20views&color=0e75b6&style=flat" alt="mystroken" />
   <a href="https://github.com/mystroken" rel="nofollow">
@@ -13,9 +12,9 @@
 Hi 👋🏾
 </h2>
 
-<p align="left">
+<blockquote align="left">
 I'm Ken, a software engineer who likes to solve problems simply and efficiently.
-</p>
+</blockquote>
 
 <br>
 
