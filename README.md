@@ -23,5 +23,5 @@ I'm Ken, a software engineer who likes to solve problems simply and efficiently.
 </h4>
 
 <p align="left">
-  <small> Last update: May 29, 2023 at 4:0:4</small>
+  <small> Last update: September 23, 2023 at 9:39:5</small>
 </p>
